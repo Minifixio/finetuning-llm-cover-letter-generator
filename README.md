@@ -1,7 +1,7 @@
-# ID2223 Lab 2 Report: Fine-Tuning and Deploying a Large Language Model for Cover Letter Generation
+# Fine-Tuning and Deploying a Large Language Model for Cover Letter Generation
 
-## Purpose of the Lab
-The purpose of this lab is to fine-tune an existing pre-trained large language model (LLM) on the FineTome Instruction Dataset and build an inference pipeline with a Gradio UI on Hugging Face Spaces. The goal is to create a system that can generate personalized, professional cover letters based on user inputs, leveraging the power of LLMs to automate and enhance the job application process.
+## Purpose of the project
+The purpose of this project is to fine-tune an existing pre-trained large language model (LLM) on the FineTome Instruction Dataset and build an inference pipeline with a Gradio UI on Hugging Face Spaces. The goal is to create a system that can generate personalized, professional cover letters based on user inputs, leveraging the power of LLMs to automate and enhance the job application process.
 
 ## General Process
 1. **Data Preparation**: Prepare the FineTome Instruction Dataset for fine-tuning.
